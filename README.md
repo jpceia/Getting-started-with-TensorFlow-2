@@ -2,7 +2,7 @@
 
 Repository with jupyter notebooks from the coursera course [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
 
-The tutorial notebooks were completed following the video lectures, and the assigments finished 100% completion mark.
+The tutorial notebooks were completed following the video lectures, and the assigments finished with 100% completion mark.
 
 ## Syllabus
 
